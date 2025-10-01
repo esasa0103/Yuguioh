@@ -1,0 +1,6 @@
+com\yugi\game\Duel.class
+com\yugi\api\YgoApiClient.class
+com\yugi\App.class
+com\yugi\game\BattleListener.class
+com\yugi\ui\MainWindow.class
+com\yugi\model\Card.class
